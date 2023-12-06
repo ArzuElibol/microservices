@@ -1,5 +1,0 @@
-server.port=8081/api/books/getBooks book-service
-server.port=9091/getBooks bookdetail
-server.port=8765/get spring.application.name=api-gateway 
-server.port=9999 bookeurekaserver
-server.port=8761 spring.application.name=spring-cloud-config-server
